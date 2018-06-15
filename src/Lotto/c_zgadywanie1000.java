@@ -12,7 +12,7 @@ public class c_zgadywanie1000 {
         System.out.println("Wymyśl liczbę od 1 do 1000");
         while(!zwyciestwo) {
             Scanner scan = new Scanner(System.in);
-            gues = (max - min) / 2+min;
+            gues = (max - min) / 2 + min;
             System.out.println("Proba " + ++count + ": Czy twoja liczba to:" + gues + "?");
             String odp = "";
 
