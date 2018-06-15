@@ -5,6 +5,10 @@ import java.util.Random;
 public class d_rzutyKostka {
     public static void main(String[] args) {
         System.out.println("Wynik: "+rzucKostka("20d10-3"));
+        System.out.println("Wynik: "+rzucKostka("20d10-3"));
+        System.out.println("Wynik: "+rzucKostka("20d10-3"));
+        System.out.println("Wynik: "+rzucKostka("20d10-3"));
+        System.out.println("Wynik: "+rzucKostka("20d10-3"));
         System.out.println("Wynik: "+rzucKostka("20D103"));
         System.out.println("Wynik: "+rzucKostka("20d9-30"));
     }
